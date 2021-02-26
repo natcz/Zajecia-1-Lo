@@ -1,3 +1,5 @@
+#Zadania do wykonania
+
 Zadanie 1: 
 Dokonaj konwersji liczby 156 na system binarny,szesnastkowy oraz ósemkowy. Następnie przekonwertuj w podany sposób i wypisz na standardowe wyjście (użyj do tego print() ):
 -176 binarny-> szesnastkowy
