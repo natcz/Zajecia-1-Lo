@@ -33,6 +33,11 @@ i dopiero na szesnastkowy.
 
 print("Slowo\n\n")
 print("sasdas")
+print("slowo","jakies",sep=" kkk")
+
+duplikacja printa
+
+print(2*"jakies slowo") wypisze nam -> jakies slowojakies slowo
 
 ###########################################################
 
