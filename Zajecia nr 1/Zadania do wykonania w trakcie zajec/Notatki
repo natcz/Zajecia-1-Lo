@@ -7,13 +7,13 @@ NOTATKI
 # string (ciag) "Ala ma kota" *
 
 
-# binarny (0,1)   bin(112) ->
-# ósmekowy (0,1,..,7) oct(112) ->
-# szesnatkowy () hex(112) ->
+# binarny (0,1)   bin(112) -> 0b1110000 (dokonała sie konwersja)
+# ósmekowy (0,1,..,7) oct(112) -> osemkowy
+# szesnatkowy () hex(112) -> szesnastkowy
 
 # str()
 # int()
 
-#print(bin(112))
-# a=bin(112)
-# print(str(int(a,2)))
+#print(bin(112)) -> wyswietli na standardowe wyjscie liczbe 112 zappisana binarnie
+# a=bin(112) -> przypisanie do zmiennej a, liczby 112 zapisanej binarnie
+# print(str(int(a,2))) -> wyswietli przekonwertowana zmienna a (zapisana binarnie) na system dziesietny
