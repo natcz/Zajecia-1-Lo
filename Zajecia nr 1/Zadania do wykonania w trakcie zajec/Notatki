@@ -1,0 +1,19 @@
+NOTATKI
+
+# char 1byte a,b,cd,g,5,67
+# int (liczba calkowita) 5,6,6 ,7 *
+# float (liczba zmiennoprzecinkowa) 7.66 4.52 *
+# double -||-
+# string (ciag) "Ala ma kota" *
+
+
+# binarny (0,1)   bin(112) ->
+# ósmekowy (0,1,..,7) oct(112) ->
+# szesnatkowy () hex(112) ->
+
+# str()
+# int()
+
+#print(bin(112))
+# a=bin(112)
+# print(str(int(a,2)))
