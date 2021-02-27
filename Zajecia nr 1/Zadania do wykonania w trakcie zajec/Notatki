@@ -1,5 +1,7 @@
 NOTATKI
 
+ADRIAN
+
 # char 1byte a,b,cd,g,5,67
 # int (liczba calkowita) 5,6,6 ,7 *
 # float (liczba zmiennoprzecinkowa) 7.66 4.52 *
@@ -17,3 +19,38 @@ NOTATKI
 #print(bin(112)) -> wyswietli na standardowe wyjscie liczbe 112 zappisana binarnie
 # a=bin(112) -> przypisanie do zmiennej a, liczby 112 zapisanej binarnie
 # print(str(int(a,2))) -> wyswietli przekonwertowana zmienna a (zapisana binarnie) na system dziesietny
+
+
+#   SEP,END,PRINT
+
+#\n -> znak nowej linii
+#sep=" " ->separator pomiedzy slowami
+#end=" " -> czym ma byc zakonczony nasz print
+
+
+print("Slowo\n\n")
+print("sasdas")
+
+###########################################################
+
+NATALIA
+
+#zmienne
+#nazwa = wartość
+wiek_ali = 15
+wiek_mateusz = 20
+napis = "ala ma kota"
+ile_kosztuje = 2.5
+
+wiekAli =  40 
+
+print(napis)
+print(wiek_ali + wiekAli)
+
+wiek_Adriana, wiek_Natalii, kot  = 15, 23, 25
+#print i input
+#print(wartość)
+#inpuy
+print(kot)
+ile_ma_lat = input("Podaj swój wiek")
+print(ile_ma_lat)
