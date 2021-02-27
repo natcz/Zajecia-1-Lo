@@ -20,6 +20,9 @@ ADRIAN
 # a=bin(112) -> przypisanie do zmiennej a, liczby 112 zapisanej binarnie
 # print(str(int(a,2))) -> wyswietli przekonwertowana zmienna a (zapisana binarnie) na system dziesietny
 
+Zeby przeknowertowac liczbe z jednego systemu na drugi (np. binarny -> szesnastkowy) to najpierw zmieniamy liczbe na binarny-> pozniej binarny->dziesietny->
+i dopiero na szesnastkowy.
+
 
 #   SEP,END,PRINT
 
