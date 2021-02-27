@@ -62,3 +62,8 @@ wiek_Adriana, wiek_Natalii, kot  = 15, 23, 25
 print(kot)
 ile_ma_lat = input("Podaj swój wiek")
 print(ile_ma_lat)
+#input domyslnie zapisuje jako string, żeby czytało jako liczbę trzeba zrobic int()
+a = input("wpisz liczbę")
+b = input("wpisz liczbę")
+print(int(a)+int(b))
+
