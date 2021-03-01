@@ -1,0 +1,33 @@
+Zadanie 1. Napisz program, który wczyta liczbę n i wypisze na standardowe wyjście n  znaków dolara.
+Przykład: wczytaliśmy 5 ------- wypisujemy $$$$$
+
+Zadanie 2. Napisz program, który  wypisze na ekranie 6 znaków '*' tak, aby uformowały trójkąt.
+Czyli Twój program ma wypisać:
+  *
+ **
+***
+
+
+Zadanie 3.
+Napisz program, który wczyta długość promienia koła, będącą liczbą rzeczywistą,
+obliczy i wypisze pole i obwód tego koła z dokładnością do 3 miejsc po przecinku.
+
+Przykład: dla 7 wynikiem będzie 153.938   43.982
+
+Wskazówka: aby zaokraglić wartość x do y miejsc po przecinku używamy funkci round(x,y) np. round(3.4562,2)=3.46
+
+Zadanie 4.
+Antek dostał od Mikołaja czekoladę, która ma x kostek w pionie i  y kostek w poziomie. Czekolada Zuzi ma a kostek w pionie i b kostek w poziomie.
+Dzieci postanowiły podzielić obie czekolady na kawałki i poczęstować nimi koleżanki i kolegów w szkolnej świetlicy.
+Ile dzieci będą mogły poczęstować, zakładając, że każde dziecko weźmie jedną kostkę czekolady?
+
+Napisz program, który:
+wczyta ze standardowego wejścia informacje o wielkości czekolad Zuzi i Antka,
+obliczy sumaryczną liczbę kostek obu czekolad,
+wypisze wynik na standardowe wyjście.
+
+Przykład: wczytamy 4 5 8 5  wypiszemy: 60 
+
+
+
+
