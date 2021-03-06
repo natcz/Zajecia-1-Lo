@@ -1,0 +1,6 @@
+promien = float(input("podaj promień:"))
+#23,3   23.3
+obwod = 2 * 3.14 * promien 
+pole = 3.14 * promien * promien
+
+print("Obwod:", round(obwod,3), "pole", round(pole,3)) 
