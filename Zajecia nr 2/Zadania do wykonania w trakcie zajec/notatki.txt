@@ -1,3 +1,43 @@
+#BOOL - wartość logiczna 
+#prawda - True == 1 , fałsz - False 
+#przypisanie =
+# a = 23
+# równa się matematyczne ==
+#a == 23
+#Fałsz
+print(bool(0))
+print(bool([]))
+print(bool(""))
+
+
+#prawda
+print(bool(2))
+
+#sprawdzamy warunki
+print(12>10) #True
+print(10==2) #Fałsz
+
+
+#STRINGI - napisy
+napis = "azjeciazprogramowania"
+#napis to też tablica
+#zmienna[numer do którego się odwołujemy]
+print(napis[5])
+print(napis[0])
+
+#długość napisu
+print(len(napis))
+dlugosc_napisu = len(napis)
+
+#strip()
+napis2 = "Hallo World "
+a = napis2.strip()
+print(a) #Hallo World"
+
+
+/************************************************/
+
+
 # + -
 # a+b
 # a=a+1
@@ -46,3 +86,5 @@ Konwersja zmiennych na rozne typy zmiennych
 # int(x)
 # float(x)
 # str(x)
+
+/***************************************************************/
