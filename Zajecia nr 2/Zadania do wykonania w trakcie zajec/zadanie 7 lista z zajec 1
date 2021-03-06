@@ -1,0 +1,9 @@
+imie = input("wpisz imie: ")
+nazwisko = input("wpisz nazwisko: ")
+dzien = input("wpisz dzien: ")
+miesiac = input("wpisz miesiac: ")
+rok = input("wpisz rok: ")
+
+#Imie: Jan Nazwisko: Kowalski Data urodzenia: 03.10.2000
+print("Imie",imie+" "+"Nazwisko",nazwisko+" ", sep=":", end="")
+print("Data urodzenia: "+ dzien, miesiac,rok, sep =".")
