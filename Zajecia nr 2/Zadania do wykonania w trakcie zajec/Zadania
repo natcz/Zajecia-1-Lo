@@ -1,13 +1,18 @@
 Zadania:
 
-1.Napisz prosty program, którego zadaniem będzie wykonanie podstawowych obliczeń arytmetycznych (dodawanie,dzielenie, mnożenie i odejmowanie). Program pobiera od użytkownika dwie dowolne liczby. Następnie wyświetla na ekran wykonane wyniki działań arytmetycznych. Dla chętnych: program pyta użytkownika jakie działanie chce aby wykonał i wyświetla odpowiedni wynik operacji.
+1.Napisz prosty program, którego zadaniem będzie wykonanie podstawowych obliczeń arytmetycznych (dodawanie,dzielenie, mnożenie i odejmowanie). 
+Program pobiera od użytkownika dwie dowolne liczby. Następnie wyświetla na ekran wykonane wyniki działań arytmetycznych. 
+Dla chętnych: program pyta użytkownika jakie działanie chce aby wykonał i wyświetla odpowiedni wynik operacji.
 
 2. Napisz program, który sprawdza czy podana liczba jest parzysta czy nieparzysta.
 
-3. Napisz program, który będzie imitował zachowanie prostego konwertera mocy. Będzie on odbywał się na zasadzie przeliczania mocy pojazdu z koni mechanicznych na kW lub na odwrót (tj. kW -> KM). Program pyta użytkownika w jaki sposób chce dokonać konwersji. Następnie prosi o podanie mocy i na standardowym wyjściu podaje wynik. 
+3. Napisz program, który będzie imitował zachowanie prostego konwertera mocy. Będzie on odbywał się na zasadzie przeliczania mocy pojazdu 
+z koni mechanicznych na kW lub na odwrót (tj. kW -> KM). Program pyta użytkownika w jaki sposób chce dokonać konwersji. 
+Następnie prosi o podanie mocy i na standardowym wyjściu podaje wynik. 
 (1KM to ok. 0.735kW)
 
-4.Zapisem lustrzanym liczby naturalnej  nazywamy liczbę złożoną z tych samych cyfr co , tylko w odwrotnej kolejności. Oto kilka przykładów liczb oraz ich zapisów lustrzanych. Zauważ, że jeśli liczba  ma na końcu zera, to w jej zapisie lustrzanym te zera nie występują:
+4.Zapisem lustrzanym liczby naturalnej  nazywamy liczbę złożoną z tych samych cyfr co , tylko w odwrotnej kolejności. 
+Oto kilka przykładów liczb oraz ich zapisów lustrzanych. Zauważ, że jeśli liczba  ma na końcu zera, to w jej zapisie lustrzanym te zera nie występują:
 liczba
 zapis lustrzany
 123
@@ -21,15 +26,19 @@ zapis lustrzany
 
 Napisz program, który wyznaczy zapis lustrzany danej liczby .
 
-Zadanie 5. Kozik z Adrianem grają w stopki. Gra polega na tym, że chłopcy ustawiają się w pewnej odległości od siebie, a następnie naprzemiennie poruszają się po linii prostej. Ruch polega na przejściu o długość własnej stopy do przodu. Wygrywa ten, który nastąpi na stopę przeciwnika.
+Zadanie 5. Kozik z Adrianem grają w stopki. Gra polega na tym, że chłopcy ustawiają się w pewnej odległości od siebie, a następnie naprzemiennie 
+poruszają się po linii prostej. Ruch polega na przejściu o długość własnej stopy do przodu. Wygrywa ten, który nastąpi na stopę przeciwnika.
 Znając odległość chłopców od siebie oraz długości stóp, stwierdź, kto wygra pojedynek. Zakładamy, że Kozik zaczyna, ponieważ jest starszy.
 Wczytaj odległość chłopcow od siebie jako zmienna odelgłosc, długość stopy kazika jako zmienna stopaK, długośc stopy Adriaan jako stopaA.
 Jeśli wygra Kozik wypisz “Kozik", jeśli wygra Adrian wypisz “Adrian”.
 
 
 
-6. Maciek razem z kolegą wpadli na pomysł budowania piramidy z drewnianych klocków. Przed przystąpieniem do budowania chcieliby wiedzieć ile pięter miałaby ich piramida jednak znają oni tylko ilość posiadanych klocków. Napisz program, w którym Maciek będzie mógł wprowadzić liczbę posiadanych klocków a program na wyjściu wypisze ilość pięter ( a bonusowo także ilość pozostałych klocków). 
-WAŻNE: Jeżeli liczba klocków nie jest wystarczająca aby Maciek zbudował kolejne piętro to ich budowa jest odrazu przerywana. Program musisz napisać przy wykorzystaniu while.
+6. Maciek razem z kolegą wpadli na pomysł budowania piramidy z drewnianych klocków. Przed przystąpieniem do budowania chcieliby wiedzieć ile pięter 
+miałaby ich piramida jednak znają oni tylko ilość posiadanych klocków. Napisz program, w którym Maciek będzie mógł wprowadzić liczbę posiadanych 
+klocków a program na wyjściu wypisze ilość pięter ( a bonusowo także ilość pozostałych klocków). 
+WAŻNE: Jeżeli liczba klocków nie jest wystarczająca aby Maciek zbudował kolejne piętro to ich budowa jest odrazu przerywana. 
+Program musisz napisać przy wykorzystaniu while.
 Przykładowa piramida:
 
 *
