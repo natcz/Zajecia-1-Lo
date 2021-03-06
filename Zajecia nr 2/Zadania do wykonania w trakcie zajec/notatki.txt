@@ -1,0 +1,48 @@
+# + -
+# a+b
+# a=a+1
+# a=a+1
+# a=a+1
+# a=a+1
+# a=a+1
+# a=a+1
+# a=a+1
+# a+=1 --> a=a+1
+# a-=1 --> a=a-1
+
+# 6/3 -> 2 (int) int/int -> int 
+# 6./3 -> 2.0 2  float/int -> float int/float -> float
+
+
+#print(6//3)    -> zaokraglenie ale w dol do liczby calkowitej
+# print(6.//3)
+
+# print(-6//4)
+
+#a*b
+
+Potegowanie
+#promien*promien -> promien**2
+
+# print(2**3)
+# print(4**(1/2))
+
+# x=x**2
+# x**=2
+
+# x=x/2
+# x/=2
+
+
+#% -> reszta z dzielnia (modulo)
+
+# 5%2 -> 2,2 -> 1
+# 6%2 -> 2,2,2 -> 0
+
+# x=x%2
+# x%=2
+
+Konwersja zmiennych na rozne typy zmiennych
+# int(x)
+# float(x)
+# str(x)
