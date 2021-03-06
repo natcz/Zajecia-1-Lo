@@ -88,3 +88,22 @@ Konwersja zmiennych na rozne typy zmiennych
 # str(x)
 
 /***************************************************************/
+#IF ELSE ELIF - wyrazenia warunkowe 
+
+#Zadanie jesli napis to ala wypisz "super!" jesli nie to wypisz "ale pech"
+
+napis = input()
+
+if napis=="ala": #jesli ... warunek ...:
+  print("super")
+else:          # w przeciwnym przypadku 
+  print("ale pech")
+
+#zadanie2 jesli wpizsemuy ala - super jesli wpisze jacek - extra w przeciwnym przypaddku wypisz ale pech
+
+if napis == "ala":
+  print("super")
+elif napis == "jacek":
+  print("extra")
+else:
+  print("ale pech")
